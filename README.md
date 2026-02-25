@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, Ben Ravan Novruzov! 👋
 
-<!--
-**ravan-novruzov/ravan-novruzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hakkımda
+- 🎓 Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
+- 🌱 Siber güvenlik, Ağ ve Altyapı Sistemleri alanlarında kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+### 🛠️ Teknik Yetkinlikler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌐 Ağ Teknolojileri (Networking)**
+- **Protokoller:** TCP/IP, OSI Model, BGP, OSPF, EIGRP, DHCP, DNS.
+- **Yönlendirme & Anahtarlama:** VLAN, Inter-VLAN Routing, STP.
+- **Analiz Araçları:** Wireshark, Packet Tracer
+
+**🛡️ Güvenlik & Sistem Yönetimi**
+- **Kimlik Yönetimi:** Microsoft Active Directory (AD DS), Group Policy Objects (GPO), DNS/DHCP Services.
+- **Güvenlik:** Firewall (Cisco ASA/Fortinet), VPN (IPsec/SSL), ACLs.
+- **İşletim Sistemleri:** Windows Server (2019/2022), Linux (Ubuntu/CentOS).
+
+
+### 📫 Bana Ulaşın
+- [LinkedIn](https://www.linkedin.com/in/ravan-novruzov-8260772a5/)
+- [E-posta](ravan3novruzov@gmail.com)
